@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\SQL\\Doan_QLSACH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|d:\\sql\\doan_qlsach\\windowsapplication5\\form_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|solutionrelative:windowsapplication5\\form_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|D:\\SQL\\Doan_QLSACH\\windowsapplication5\\form_hoadon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|solutionrelative:windowsapplication5\\form_hoadon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|D:\\SQL\\Doan_QLSACH\\windowsapplication5\\form_thongke.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|solutionrelative:windowsapplication5\\form_thongke.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|D:\\SQL\\Doan_QLSACH\\windowsapplication5\\form_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|solutionrelative:windowsapplication5\\form_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B994ED65-6121-4E86-BE22-03186B19E876}|WindowsApplication5\\WindowsApplication5.vbproj|D:\\SQL\\Doan_QLSACH\\windowsapplication5\\form_dangky.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,64 +58,60 @@
               "Title": "Form_Dangky.vb",
               "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangky.vb",
               "RelativeDocumentMoniker": "WindowsApplication5\\Form_Dangky.vb",
-              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangky.vb*",
-              "RelativeToolTip": "WindowsApplication5\\Form_Dangky.vb*",
+              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangky.vb",
+              "RelativeToolTip": "WindowsApplication5\\Form_Dangky.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-24T18:51:36.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T18:51:36.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form_Dangnhap.vb",
               "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangnhap.vb",
               "RelativeDocumentMoniker": "WindowsApplication5\\Form_Dangnhap.vb",
-              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangnhap.vb*",
-              "RelativeToolTip": "WindowsApplication5\\Form_Dangnhap.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB7AAAAAAAAAA==",
+              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_Dangnhap.vb",
+              "RelativeToolTip": "WindowsApplication5\\Form_Dangnhap.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-09-24T18:51:12.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form_ThongKe.vb",
               "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_ThongKe.vb",
               "RelativeDocumentMoniker": "WindowsApplication5\\Form_ThongKe.vb",
-              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_ThongKe.vb*",
-              "RelativeToolTip": "WindowsApplication5\\Form_ThongKe.vb*",
+              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_ThongKe.vb",
+              "RelativeToolTip": "WindowsApplication5\\Form_ThongKe.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-24T16:58:34.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T16:58:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_SACH.vb",
+              "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_SACH.vb",
+              "RelativeDocumentMoniker": "WindowsApplication5\\Form_SACH.vb",
+              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_SACH.vb",
+              "RelativeToolTip": "WindowsApplication5\\Form_SACH.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-24T12:31:59.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form_SACH.vb",
-              "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_SACH.vb",
-              "RelativeDocumentMoniker": "WindowsApplication5\\Form_SACH.vb",
-              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_SACH.vb*",
-              "RelativeToolTip": "WindowsApplication5\\Form_SACH.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-24T12:31:59.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form_HoaDon.vb",
               "DocumentMoniker": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_HoaDon.vb",
               "RelativeDocumentMoniker": "WindowsApplication5\\Form_HoaDon.vb",
-              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_HoaDon.vb*",
-              "RelativeToolTip": "WindowsApplication5\\Form_HoaDon.vb*",
+              "ToolTip": "D:\\SQL\\Doan_QLSACH\\WindowsApplication5\\Form_HoaDon.vb",
+              "RelativeToolTip": "WindowsApplication5\\Form_HoaDon.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-23T18:20:19.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T18:20:19.89Z"
             }
           ]
         }
