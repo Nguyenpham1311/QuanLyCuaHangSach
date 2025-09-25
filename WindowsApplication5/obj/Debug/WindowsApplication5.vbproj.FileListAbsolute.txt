@@ -1,0 +1,104 @@
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+D:\Pham Duc Chinh\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Khachhang.resources
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Khachhang.resources
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\chinh\Downloads\Chính Chó\Pham Duc ChinhVS\Pham Duc Chinh TH29.26\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Sach.resources
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Ace\Documents\Zalo Received Files\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Sach.resources
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+D:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.exe.config
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Sach.resources
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+E:\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.exe.config
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Sach.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_HoaDon.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.Form_ThongKe.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.GioiThieu.resources
+D:\SQL\PhamTienNguyen_2924120591_TH29.21\WindowsApplication5\obj\Debug\WindowsApplication5.MenuSach.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\SQL\Doan_QLSACH\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\SQL\Doan_QLSACH\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\SQL\Doan_QLSACH\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.exe.config
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangky.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Dangnhap.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Form_HoaDon.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Form_Sach.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Form_ThongKe.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.GioiThieu.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.MenuSach.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\SQL\Doan_QLSACH\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
